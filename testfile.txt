@@ -1,0 +1,6 @@
+## Just a test file ##
+
+This is just a text file to practice a bit with git.
+It has been a while since I had the introductory course..
+
+
